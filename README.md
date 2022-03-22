@@ -1,2 +1,1 @@
-git 연습중
-# git
+# githut test repo
